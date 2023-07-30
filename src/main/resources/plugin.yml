@@ -1,0 +1,8 @@
+name: CustomClass
+version: '${project.version}'
+main: me.tbur.customclass.CustomClass
+api-version: '1.19'
+commands:
+  class:
+    usage: /<command>
+    description: Opens the menu for the Class Menu

@@ -1,0 +1,15 @@
+me/tbur/customclass/armorevents/ArmorType.class
+me/tbur/customclass/enchantments/ElvenLegs.class
+me/tbur/customclass/classmenu/ClassMenu.class
+me/tbur/customclass/listeners/QuitListener.class
+me/tbur/customclass/classmenu/ClickEvent$1.class
+me/tbur/customclass/CustomClass.class
+me/tbur/customclass/enchantments/DragonScale.class
+me/tbur/customclass/armorevents/ArmorEquipEvent.class
+me/tbur/customclass/commands/classCommand.class
+me/tbur/customclass/armorevents/ArmorListener.class
+me/tbur/customclass/armorevents/ArmorEquipEvent$EquipMethod.class
+me/tbur/customclass/enchantments/PiglinArms.class
+me/tbur/customclass/listeners/JoinListener.class
+me/tbur/customclass/classmenu/ClickEvent.class
+me/tbur/customclass/armorevents/DispenserArmorListener.class
